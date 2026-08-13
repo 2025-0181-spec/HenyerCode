@@ -1,0 +1,14 @@
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\bin\Debug\net10.0\EjerciciosIfElseSwitch.exe
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\bin\Debug\net10.0\EjerciciosIfElseSwitch.deps.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\bin\Debug\net10.0\EjerciciosIfElseSwitch.runtimeconfig.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\bin\Debug\net10.0\EjerciciosIfElseSwitch.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\bin\Debug\net10.0\EjerciciosIfElseSwitch.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.AssemblyInfoInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.AssemblyInfo.cs
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\refint\EjerciciosIfElseSwitch.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\EjerciciosIfElseSwitch.genruntimeconfig.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\EjerciciosIfElseSwitch\obj\Debug\net10.0\ref\EjerciciosIfElseSwitch.dll
