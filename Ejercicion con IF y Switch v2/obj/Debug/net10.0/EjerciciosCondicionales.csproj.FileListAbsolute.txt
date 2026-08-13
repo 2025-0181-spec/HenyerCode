@@ -1,0 +1,14 @@
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\bin\Debug\net10.0\EjerciciosCondicionales.exe
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\bin\Debug\net10.0\EjerciciosCondicionales.deps.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\bin\Debug\net10.0\EjerciciosCondicionales.runtimeconfig.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\bin\Debug\net10.0\EjerciciosCondicionales.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\bin\Debug\net10.0\EjerciciosCondicionales.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.AssemblyInfoInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.AssemblyInfo.cs
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\refint\EjerciciosCondicionales.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\EjerciciosCondicionales.genruntimeconfig.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\Ejercicion con IF y Switch v2\obj\Debug\net10.0\ref\EjerciciosCondicionales.dll
