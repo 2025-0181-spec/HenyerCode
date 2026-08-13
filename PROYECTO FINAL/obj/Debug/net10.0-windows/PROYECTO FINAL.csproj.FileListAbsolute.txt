@@ -1,0 +1,59 @@
+C:\Users\Henyer\Documents\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.exe
+C:\Users\Henyer\Documents\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.deps.json
+C:\Users\Henyer\Documents\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.runtimeconfig.json
+C:\Users\Henyer\Documents\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\Henyer\Documents\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormMenu.resources
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormRegistrar.resources
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormVer.resources
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfoInputs.cache
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfo.cs
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\refint\PROYECTO FINAL.dll
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.genruntimeconfig.cache
+C:\Users\Henyer\Documents\PROYECTO FINAL\obj\Debug\net10.0-windows\ref\PROYECTO FINAL.dll
+C:\Users\Henyer\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.exe
+C:\Users\Henyer\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.deps.json
+C:\Users\Henyer\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.runtimeconfig.json
+C:\Users\Henyer\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\Henyer\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormMenu.resources
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormRegistrar.resources
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormVer.resources
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfoInputs.cache
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfo.cs
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\refint\PROYECTO FINAL.dll
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.genruntimeconfig.cache
+C:\Users\Henyer\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\ref\PROYECTO FINAL.dll
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.exe
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.deps.json
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.runtimeconfig.json
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\bin\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormMenu.resources
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormRegistrar.resources
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormVer.resources
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfoInputs.cache
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.AssemblyInfo.cs
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.dll
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\refint\PROYECTO FINAL.dll
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.pdb
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO FINAL.genruntimeconfig.cache
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\ref\PROYECTO FINAL.dll
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormEditar.resources
+C:\Users\OptiPlex\Desktop\PROYECTO FINAL\obj\Debug\net10.0-windows\PROYECTO_FINAL.FormBuscar.resources
