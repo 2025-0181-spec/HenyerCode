@@ -1,0 +1,14 @@
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\bin\Debug\net10.0-windows\ProyectoFormularios.exe
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\bin\Debug\net10.0-windows\ProyectoFormularios.deps.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\bin\Debug\net10.0-windows\ProyectoFormularios.runtimeconfig.json
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\bin\Debug\net10.0-windows\ProyectoFormularios.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\bin\Debug\net10.0-windows\ProyectoFormularios.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.AssemblyInfoInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.AssemblyInfo.cs
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.csproj.CoreCompileInputs.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\refint\ProyectoFormularios.dll
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.pdb
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ProyectoFormularios.genruntimeconfig.cache
+C:\Users\Henyer\Desktop\Nueva carpeta (3)\ProyectoFormularios\obj\Debug\net10.0-windows\ref\ProyectoFormularios.dll
